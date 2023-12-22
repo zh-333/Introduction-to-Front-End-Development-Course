@@ -1,0 +1,23 @@
+#Color{
+    color: red
+}
+
+#Font{
+    font-family: Arial, 'Times New Roman', Times, serif;
+    /*Can Choose Multiple Text, Incase the first one doesn't load*/
+}
+
+#Size{
+    font-size: 50px;
+}
+
+#Transformation{
+    text-transform: Uppercase;
+}
+
+#Decoration{
+    text-decoration-line: underline;
+    text-decoration-color: blue;
+    text-decoration-thickness: 2px;
+    text-decoration-style: wavy;
+}

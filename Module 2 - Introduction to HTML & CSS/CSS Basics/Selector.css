@@ -1,0 +1,29 @@
+/*Types of Selectors*/
+
+p{
+    color: red;
+}
+
+#Id{
+    color:blue;
+}
+
+.Class{
+    color: violet;
+}
+
+h1.Class{
+    color: gold;
+}
+
+#Descendant{
+    color: brown;
+}
+
+#Descendant h2,h3{
+    color: aquamarine;
+}
+
+#Child>h1,h2{
+    color: darkgrey;
+}

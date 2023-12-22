@@ -1,0 +1,14 @@
+#Content{
+    color:red;
+    width: 100%;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+    border-top: 2px solid red;
+    border-left: 1px solid black;
+    border-bottom: 5px solid blue;
+    border-top-style:dashed;
+    border-bottom-style: dotted;
+    border-left-style: double;
+    margin-bottom: 10%;
+}

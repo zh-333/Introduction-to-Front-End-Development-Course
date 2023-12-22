@@ -1,0 +1,19 @@
+h1{
+    color: rgb(0,255,0);
+}
+
+h2{
+    color: rgba(200,200,0,255);    
+}
+
+h3{
+    color: hsl(200, 100%, 50%);    
+}
+
+h4{
+    color: #d9ff00;    
+}
+
+h5{
+    color: black;    
+}

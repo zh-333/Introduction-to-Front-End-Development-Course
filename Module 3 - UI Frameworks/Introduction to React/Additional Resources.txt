@@ -1,0 +1,16 @@
+React Official Website
+https://reactjs.org/
+
+Choosing between Traditional Web Apps and Single Page Apps (Microsoft)
+
+https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/choose-between-traditional-web-and-single-page-apps
+
+React Source Code (Github)
+
+https://github.com/facebook/react
+
+Introduction to React.js  
+
+The original video recorded at Facebook in 2013.
+
+https://youtu.be/XxVg_s8xAms

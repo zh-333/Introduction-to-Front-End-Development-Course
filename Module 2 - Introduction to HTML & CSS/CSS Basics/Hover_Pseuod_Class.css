@@ -1,0 +1,12 @@
+#Color:hover{
+    color: blue;
+}
+
+#BGColor:hover{
+    background-color: black;
+    color: gold;
+}
+
+#Transparent:hover{
+    color: transparent;
+}
